@@ -1,0 +1,92 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: 'icy-icons';
+  src: url('icons.eot?39805974');
+  src: url('icons.eot?39805974#iefix') format('embedded-opentype'),
+        url('icons.woff?39805974') format('woff'),
+        url('icons.ttf?39805974') format('truetype'),
+        url('icons.svg?39805974#icy-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.entry-date a:before,
+.author.vcard a:before,
+.comments-link a:before,
+.entry-tags:before,
+.entry-categories:before,
+.more-link:before,
+.edit-link a:before,
+.comment-edit-link:before,
+.comment-reply-link:before,
+.full-size-link:before,
+[class^="icon-"]:before, 
+[class*=" icon-"]:before {
+  font-family: "icy-icons";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  width: 1em;
+  margin-right: .4em;
+  text-align: center;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1em;
+  font-size: 1.1em; 
+}
+
+.entry-date a:before, 
+.icon-calendar-1:before { content: '\e800'; }
+
+.author.vcard a:before,
+.icon-user:before { content: '👤'; }
+
+.comments-link a:before,
+.icon-comment:before { content: '\e718'; }
+
+.more-link:before,
+.icon-link:before { content: '🔗'; }
+
+.entry-tags:before,
+.icon-tags:before { content: '\e70d'; }
+
+.entry-categories:before,
+.icon-folder:before { content: '📁'; }
+
+.edit-link a:before,
+.comment-edit-link:before,
+.icon-pencil:before { content: '\270e'; }
+
+.comment-reply-link:before,
+.icon-forward:before { content: '\27a6'; }
+
+.icon-search:before { content: '🔍'; }
+
+.full-size-link:before { content: '\e750'; }
+
+.icon-menu:before { content: '\2630'; }
+
+/* Social Icons */
+
+.icon-gplus:before { content: '\2b'; }
+
+.icon-pinterest:before { content: '\31'; }
+
+.icon-flickr:before { content: '\46'; }
+
+.icon-linkedin:before { content: '\4c'; }
+
+.icon-rss:before { content: '\52'; }
+
+.icon-twitter:before { content: '\54'; }
+
+.icon-youtube:before { content: '\55'; }
+
+.icon-vimeo:before { content: '\56'; }
+
+.icon-facebook:before { content: '\66'; }
+
+.icon-tumblr:before { content: '\74'; }

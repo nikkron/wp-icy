@@ -1,0 +1,669 @@
+# Copyright (C) 2013 WildWebLab.com
+# This file is distributed under the GNU General Public License v2.0 (or later).
+msgid ""
+msgstr ""
+"Project-Id-Version: Icy 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/wwl\n"
+"POT-Creation-Date: 2013-05-16 12:13:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: archive-header.php:17
+msgid "Category Archives: %s"
+msgstr ""
+
+#: archive-header.php:21
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: archive-header.php:31
+msgid "Author Archives: %s"
+msgstr ""
+
+#: archive-header.php:42
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: archive-header.php:46
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive-header.php:50
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive-header.php:54
+msgid "Archives"
+msgstr ""
+
+#: archive-header.php:60
+msgid "Search Results for: %s"
+msgstr ""
+
+#: author-bio.php:14
+msgid "About %s"
+msgstr ""
+
+#: author-bio.php:18
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:23
+msgid "One Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:30 comments.php:42
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:31 comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:54
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:72
+msgid "Name <span>*</span>"
+msgstr ""
+
+#: comments.php:73
+msgid "Name:"
+msgstr ""
+
+#: comments.php:83
+msgid "Email <span>*</span>"
+msgstr ""
+
+#: comments.php:84
+msgid "Email:"
+msgstr ""
+
+#: comments.php:92
+msgid "Website"
+msgstr ""
+
+#: comments.php:97
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:98
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out &raquo;</a>"
+msgstr ""
+
+#: comments.php:99
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:100
+msgid "Leave a comment to %s"
+msgstr ""
+
+#: comments.php:101
+msgid "Click here to cancel reply."
+msgstr ""
+
+#: content-404.php:10
+msgid "404! That page can&rsquo;t be found."
+msgstr ""
+
+#: content-404.php:14
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: content-404.php:24
+msgid "Categories"
+msgstr ""
+
+#: content-aside.php:12 content-image.php:12 content-image.php:18
+#: content-link.php:12 content-quote.php:12 content-status.php:12
+#: content.php:12 content.php:18
+msgid "Permalink to %s"
+msgstr ""
+
+#: content-noresults.php:13
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-noresults.php:17
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: content-noresults.php:22
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: content-page.php:20 image.php:89 lib/core.php:942
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary Navigation"
+msgstr ""
+
+#: functions.php:200
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:211
+msgid "Header Right"
+msgstr ""
+
+#: functions.php:213
+msgid "This is the widget area in the header."
+msgstr ""
+
+#: functions.php:222
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:224
+msgid "The first footer widget area"
+msgstr ""
+
+#: functions.php:233
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:235
+msgid "The second footer widget area"
+msgstr ""
+
+#: functions.php:244
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:246
+msgid "The third footer widget area"
+msgstr ""
+
+#: functions.php:255
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:257
+msgid "The fourth footer widget area"
+msgstr ""
+
+#: image.php:24
+msgid "<span class=\"entry-date\"><a href=\"%1$s\" datetime=\"%2$s\">%3$s</a></span> <a href=\"%4$s\" title=\"Link to full-size image\" class=\"full-size-link\">%5$s &times; %6$s</a> <a href=\"%7$s\" title=\"Return to %8$s\" class=\"entry-categories\" rel=\"gallery\">%9$s</a>"
+msgstr ""
+
+#: image.php:36 lib/core.php:395 lib/core.php:756 lib/core.php:775
+msgid "Edit"
+msgstr ""
+
+#: image.php:99
+msgid "&larr; Previous"
+msgstr ""
+
+#: image.php:100
+msgid "Next &rarr;"
+msgstr ""
+
+#: lib/admin/options-framework.php:175 lib/admin/options-framework.php:176
+#: lib/admin/options-framework.php:461
+msgid "Theme Options"
+msgstr ""
+
+#: lib/admin/options-framework.php:245
+msgid "Documentation"
+msgstr ""
+
+#: lib/admin/options-framework.php:247 lib/admin/options-framework.php:262
+msgid "Save Settings"
+msgstr ""
+
+#: lib/admin/options-framework.php:263
+msgid "Restore Defaults"
+msgstr ""
+
+#: lib/admin/options-framework.php:263
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: lib/admin/options-framework.php:306
+msgid "Default options restored."
+msgstr ""
+
+#: lib/admin/options-framework.php:343
+msgid "Settings have been successfully imported."
+msgstr ""
+
+#: lib/admin/options-framework.php:345
+msgid "Could not read your file."
+msgstr ""
+
+#: lib/admin/options-framework.php:348
+msgid "Settings saved."
+msgstr ""
+
+#: lib/admin/options-interface.php:17
+msgid "My Help Tab"
+msgstr ""
+
+#: lib/admin/options-interface.php:18
+msgid "Descriptive content that will show in My Help Tab-body goes here."
+msgstr ""
+
+#: lib/admin/options-interface.php:83
+msgid "Export Settings"
+msgstr ""
+
+#: lib/admin/options-interface.php:86
+msgid "Download Settings File"
+msgstr ""
+
+#: lib/admin/options-interface.php:93
+msgid "Import Settings"
+msgstr ""
+
+#: lib/admin/options-interface.php:97
+msgid "Upload Settings"
+msgstr ""
+
+#: lib/admin/options-interface.php:97
+msgid "Click OK to upload your settings. Any current theme settings will be lost!"
+msgstr ""
+
+#: lib/admin/options-medialibrary-uploader.php:30
+msgid "Theme Options Media"
+msgstr ""
+
+#: lib/admin/options-medialibrary-uploader.php:133
+msgid "Upload"
+msgstr ""
+
+#: lib/admin/options-medialibrary-uploader.php:156
+msgid "View File"
+msgstr ""
+
+#: lib/admin/options-medialibrary-uploader.php:293
+msgid "Gallery"
+msgstr ""
+
+#: lib/admin/options-medialibrary-uploader.php:293
+msgid "Previously Uploaded"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:232
+msgid "No Repeat"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:233
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:234
+msgid "Repeat Vertically"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:235
+msgid "Repeat All"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:248
+msgid "Top Left"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:249
+msgid "Top Center"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:250
+msgid "Top Right"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:251
+msgid "Middle Left"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:252
+msgid "Middle Center"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:253
+msgid "Middle Right"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:254
+msgid "Bottom Left"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:255
+msgid "Bottom Center"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:256
+msgid "Bottom Right"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:269
+msgid "Scroll Normally"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:270
+msgid "Fixed in Place"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:344
+msgid "Normal"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:345
+msgid "Italic"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:346
+msgid "Bold"
+msgstr ""
+
+#: lib/admin/options-sanitize.php:347
+msgid "Bold Italic"
+msgstr ""
+
+#: lib/core.php:36
+msgid "Page %s"
+msgstr ""
+
+#: lib/core.php:472
+msgid "Previous"
+msgstr ""
+
+#: lib/core.php:473
+msgid "Next"
+msgstr ""
+
+#: lib/core.php:478
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: lib/core.php:479
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: lib/core.php:517 lib/core.php:522
+msgid "Home"
+msgstr ""
+
+#: lib/core.php:520
+msgid "Page "
+msgstr ""
+
+#: lib/core.php:543 lib/core.php:546 lib/core.php:549
+msgid "Archive for "
+msgstr ""
+
+#: lib/core.php:553
+msgid "Author Archives: "
+msgstr ""
+
+#: lib/core.php:558
+msgid "Search Results for: "
+msgstr ""
+
+#: lib/core.php:560
+msgid "Page Not Found"
+msgstr ""
+
+#: lib/core.php:576
+msgid "Content Sidebar"
+msgstr ""
+
+#: lib/core.php:585
+msgid "Sidebar Content"
+msgstr ""
+
+#: lib/core.php:594
+msgid "Content"
+msgstr ""
+
+#: lib/core.php:756
+msgid "Pingback:"
+msgstr ""
+
+#: lib/core.php:766
+msgid "%s "
+msgstr ""
+
+#: lib/core.php:772
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: lib/core.php:781
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: lib/core.php:806 lib/core.php:815
+msgid "Layout Settings"
+msgstr ""
+
+#: lib/core.php:836
+msgid "Default Theme Layout"
+msgstr ""
+
+#: lib/core.php:941
+msgid "Read More"
+msgstr ""
+
+#: lib/shortcodes.php:62
+msgid "View all posts by %s"
+msgstr ""
+
+#: lib/shortcodes.php:189
+msgid "0"
+msgstr ""
+
+#: lib/shortcodes.php:189
+msgid "1"
+msgstr ""
+
+#: lib/shortcodes.php:189
+msgid "%"
+msgstr ""
+
+#: lib/theme-customizer.php:23
+msgid "Basic Colors"
+msgstr ""
+
+#: lib/theme-customizer.php:69
+msgid "Typography Colors"
+msgstr ""
+
+#: lib/theme-customizer.php:168 lib/theme-options.php:77
+msgid "Layout"
+msgstr ""
+
+#: lib/theme-options.php:71
+msgid "General"
+msgstr ""
+
+#: lib/theme-options.php:86
+msgid "Post Content"
+msgstr ""
+
+#: lib/theme-options.php:97
+msgid "Featured Image"
+msgstr ""
+
+#: lib/theme-options.php:111
+msgid "Featured Image Size"
+msgstr ""
+
+#: lib/theme-options.php:132
+msgid "Breadcrumbs"
+msgstr ""
+
+#: lib/theme-options.php:148
+msgid "Pagination Style"
+msgstr ""
+
+#: lib/theme-options.php:164
+msgid "Social"
+msgstr ""
+
+#: lib/theme-options.php:170
+msgid "Show Icons in Header"
+msgstr ""
+
+#: lib/theme-options.php:181
+msgid "Facebook"
+msgstr ""
+
+#: lib/theme-options.php:189
+msgid "Twitter"
+msgstr ""
+
+#: lib/theme-options.php:197
+msgid "Google+"
+msgstr ""
+
+#: lib/theme-options.php:205
+msgid "Youtube"
+msgstr ""
+
+#: lib/theme-options.php:213
+msgid "Vimeo"
+msgstr ""
+
+#: lib/theme-options.php:221
+msgid "Flickr"
+msgstr ""
+
+#: lib/theme-options.php:229
+msgid "Pinterest"
+msgstr ""
+
+#: lib/theme-options.php:237
+msgid "LinkedIn"
+msgstr ""
+
+#: lib/theme-options.php:245
+msgid "Tumblr"
+msgstr ""
+
+#: lib/theme-options.php:253
+msgid "RSS"
+msgstr ""
+
+#: lib/theme-options.php:265
+msgid "Snippets"
+msgstr ""
+
+#: lib/theme-options.php:271
+msgid "Post Info"
+msgstr ""
+
+#: lib/theme-options.php:272
+msgid "Data above the content of blog post."
+msgstr ""
+
+#: lib/theme-options.php:279
+msgid "Post Meta"
+msgstr ""
+
+#: lib/theme-options.php:280
+msgid "Data below each blog post."
+msgstr ""
+
+#: lib/theme-options.php:287
+msgid "Footer Content"
+msgstr ""
+
+#: lib/theme-options.php:288
+msgid "Footer content. Below widget area."
+msgstr ""
+
+#: lib/theme-options.php:295
+msgid "Header Scripts"
+msgstr ""
+
+#: lib/theme-options.php:296
+msgid "Enter scripts or code you would like output to wp_head()."
+msgstr ""
+
+#: lib/theme-options.php:303
+msgid "Footer Scripts"
+msgstr ""
+
+#: lib/theme-options.php:304
+msgid "Enter scripts or code you would like output to wp_footer()."
+msgstr ""
+
+#: lib/theme-options.php:315
+msgid "Styling"
+msgstr ""
+
+#: lib/theme-options.php:321
+msgid "Hide Post Format Icons"
+msgstr ""
+
+#: lib/theme-options.php:332
+msgid "Header Background"
+msgstr ""
+
+#: lib/theme-options.php:333
+msgid "Pick a custom background color for header."
+msgstr ""
+
+#: lib/theme-options.php:340
+msgid "Link Color"
+msgstr ""
+
+#: lib/theme-options.php:341
+msgid "Pick a custom color for links."
+msgstr ""
+
+#: lib/theme-options.php:348
+msgid "Link Hover Color"
+msgstr ""
+
+#: lib/theme-options.php:349
+msgid "Pick a custom color for hover links."
+msgstr ""
+
+#: lib/theme-options.php:356
+msgid "Custom CSS"
+msgstr ""
+
+#: lib/theme-options.php:357
+msgid "Add custom CSS code."
+msgstr ""
+
+#: lib/widgets.php:23
+msgid "Displays icons social icons set in theme options"
+msgstr ""
+
+#: lib/widgets.php:59
+msgid "Title:"
+msgstr ""
+
+#: searchform.php:10
+msgid "Search"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Icy"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://www.wildweblab.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Icy is a clean and elegant blogging theme with Post Formats. Responsive layout and Retina ready icons & images makes this theme look beautiful on any device. Easy to use Theme Options panel, integrated Customizer, Custom Menu and 6 Widget Areas will allow you to easily customize your website. Icy is build on the latest WordPress and web standards such as HTML5 & CSS3, it's also child theme friendly."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WildWebLab.com"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.wildweblab.com"
+msgstr ""
