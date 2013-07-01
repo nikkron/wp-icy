@@ -262,3 +262,17 @@ function icy_widgets_init() {
 	) );
 }
 add_action( 'widgets_init', 'icy_widgets_init' );
+
+
+/**
+ * Removes "Geschützt: " from the title of password protected posts
+ */
+function remove_protected_info ( $title ) {
+	$title = utf8_decode( $title );
+	
+	$title = str_replace( 'Gesch&uuml;tzt: ', '', $title );
+	$title = str_replace( 'Geschützt: ', '', $title );
+	
+	return utf8_encode( $title );
+}
+add_filter('the_title', 'remove_protected_info');
