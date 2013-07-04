@@ -653,7 +653,7 @@ msgid "Icy"
 msgstr ""
 
 #. Theme URI of the plugin/theme
-msgid "http://www.wildweblab.com"
+msgid "http://www.wildweblab.com/theme/icy"
 msgstr ""
 
 #. Description of the plugin/theme
