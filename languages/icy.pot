@@ -397,6 +397,10 @@ msgstr ""
 msgid "Page "
 msgstr ""
 
+#: lib/core.php:538
+msgid "Category: "
+msgstr ""
+
 #: lib/core.php:543 lib/core.php:546 lib/core.php:549
 msgid "Archive for: "
 msgstr ""
