@@ -5,3 +5,4 @@ Modified version of the Wordpress theme "Icy". The original theme can be found a
 
 ## Changelog
 * added filter for titles of password protected posts
+* added german translation
